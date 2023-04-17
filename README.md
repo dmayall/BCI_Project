@@ -1,2 +1,2 @@
-# My_Code
+# BCI_Project
 Hi my name is Derrick Mayall and I am a Data Science student at UNCC. I have a lot of code that is mostly working in Python with big data from my Data Science courses or the research I am working with and some in Java from my Computer Science classes that I have to take as well. Most if not all of the research code cannot be run by anyone who is not involved in the research and has access to the repository but I will provide all poutputs and pickled data so that some parts of it can be ran by anyone who desires. 
